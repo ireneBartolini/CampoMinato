@@ -1,4 +1,4 @@
-'use strict';
+a'use strict';
 
 class Configurazione extends React.Component {
  
@@ -10,7 +10,7 @@ class Configurazione extends React.Component {
 
             <div className="configuration">
             <h4>Configurazione</h4>
-            <label>inserisci dimensione griglia </label><br></br>
+            <label>inserisci dimensione della griglia </label><br></br>
             <input type="test" id="d" /><br></br>
             <label>inserisci numero di passi</label><br></br>
             <input type="test" id="p" /><br></br>
